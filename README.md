@@ -4,7 +4,7 @@
 @Purpose: slides for WWC presentation and supporting code stubs  
 
 ### How do I make the most of this project?
-- Check the sources in pdf, a lot of them have detailed tutorials  
+- Check the sources in pdf slides, a lot of them have detailed tutorials  
 - Refer to Speaker notes section below for some more talking points around the slides  
 - Most code is snippet form or uses academic sample data, I encourage you to expand it with real world data and send me a PR if you do  
 
