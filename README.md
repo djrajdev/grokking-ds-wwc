@@ -16,7 +16,7 @@ I can be reached by
 - **Monthly Data Viz Meetup** [link](https://www.meetup.com/SVDataVizMeetup/)
 
 ### Video walkthrough
-[Link](https://www.youtube.com/watch?v=7Dm8-cCNRHo). Some of the above topics may be covered in a different but related presentation as a Data Scientist at TIBCO Software.
+[Link](https://www.youtube.com/watch?v=7Dm8-cCNRHo). Some of the above topics may be covered in a different but related presentation I did as a Data Scientist at TIBCO Software.
 
 ### Speaker notes:
 #### Should I even solve it?
